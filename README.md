@@ -2,22 +2,22 @@
 <h3 align="center">A Computerphile 🎮 | Tech Enthusiast 💻</h3>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/66066b22abacaf358032bb15ab64fe18654e8d00e2ed4d07747d89eccb6596ae/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3939312f3939392f6f726967696e616c2f616e6e612d68617672796c79756b682d2e6769663f31353936313235313132" width="400" alt="Coding GIF" align="center" />
+  <img src="https://camo.githubusercontent.com/66066b22abacaf358032bb15ab64fe18654e8d00e2ed4d07747d89eccb6596ae/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3939312f3939392f6f726967696e616c2f616e6e612d68617672796c79756b682d2e6769663f31353936313235313132" width="400" alt="Coding GIF" />
 </p>
 
 ---
 
-- 🔭 I’m currently working on **Inventory Management System: using different tools**
+- 🔭 I’m currently working on **Inventory Management System**
 
 - 👨‍💻 All of my projects are available at [github.com/barkhavarshney](https://github.com/barkhavarshney)
 
-- 📫 How to reach me **barkhavarshney2304@gmail.com**
+- 📫 How to reach me: **barkhavarshney2304@gmail.com**
 
 ---
 
-<h2 align="center">Projects 🚀</h2>
+<h2 align="left">Projects 🚀</h2>
 
-<p align="center">Here’s a sneak peek into some cool stuff I’ve been working on 👇</p>
+<p align="left">Here’s a sneak peek into some of my coolest projects:</p>
 
 ### 1. **YouTube Data Harvesting and Warehousing**
 - Built a Streamlit app that extracts channel data (IDs, videos, statistics) from YouTube.
@@ -55,17 +55,19 @@
 
 ---
 
-<h2 align="center">Connect with Me 🤝</h2>
+<h2 align="left">Connect with Me 🤝</h2>
 
-<p align="center">
+<p align="left">
+  <a href="mailto:barkhavarshney2304@gmail.com"><img src="https://img.shields.io/badge/-barkhavarshney2304@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <br>
   <a href="https://linkedin.com/in/barkhavarshney" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 ---
 
-<h2 align="center">Languages and Tools 🛠️</h2>
+<h2 align="left">Languages and Tools 🛠️</h2>
 
-<p align="center">
+<p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a> 
@@ -81,6 +83,6 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barkhavarshney&show_icons=true&locale=en&layout=compact" alt="barkhavarshney" />
 </p>
