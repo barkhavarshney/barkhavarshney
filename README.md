@@ -58,8 +58,6 @@
 <h2 align="left">Connect with Me 🤝</h2>
 
 <p align="left">
-  <a href="mailto:barkhavarshney2304@gmail.com"><img src="https://img.shields.io/badge/-barkhavarshney2304@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <br>
   <a href="https://linkedin.com/in/barkhavarshney" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
