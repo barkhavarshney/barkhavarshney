@@ -1,9 +1,6 @@
-[![MasterHead](https://camo.githubusercontent.com/763b20ee0c259acf8a832cacc050105f3f6717fb6d7394aece9d6baaf724530a/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3230302f312a4f785437556a4977686b6c4b453864385346796f37672e676966)](https://barkhavarshney.io)
-
-
-
 <h1 align="center">Hello👋, I'm Barkha Varshney</h1>
 <h3 align="center">A Computerphile</h3>
+[![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://barkhavarshney.io)
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/66066b22abacaf358032bb15ab64fe18654e8d00e2ed4d07747d89eccb6596ae/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3939312f3939392f6f726967696e616c2f616e6e612d68617672796c79756b682d2e6769663f31353936313235313132">
 
 - 🔭 I’m currently working on **Inventory Management System: using different tools**
