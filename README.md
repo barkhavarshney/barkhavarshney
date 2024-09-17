@@ -22,7 +22,6 @@
 - **Technologies Used:** 🖥️ Streamlit, 🌐 MongoDB, PostgreSQL, Python.
 - **Key Contribution:** Efficiently managed and visualized YouTube data, improving retrieval and analysis.
 
-[Check it out here!](https://github.com/barkhavarshney/youtube-data-harvesting)
 
 ---
 
@@ -84,6 +83,6 @@
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barkhavarshney&show_icons=true&locale=en&layout=compact" alt="barkhavarshney" />
 </p>
