@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Smart Inventory Management System: using different tools**
+- 🔭 I’m currently working on **Inventory Management System**
 
 - 👨‍💻 All of my projects are available at [github.com/barkhavarshney](https://github.com/barkhavarshney)
 
