@@ -2,10 +2,6 @@
 <h3 align="center">A Computerphile 🎮 | Tech Enthusiast 💻</h3>
 
 <p align="center">
-  <img src="https://indoanalytica.com/static/images/bannerr.gif" alt="header image" />
-</p>
-
-<p align="center">
   <img src="https://camo.githubusercontent.com/66066b22abacaf358032bb15ab64fe18654e8d00e2ed4d07747d89eccb6596ae/68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3939312f3939392f6f726967696e616c2f616e6e612d68617672796c79756b682d2e6769663f31353936313235313132" width="400" alt="Coding GIF" align="center" />
 </p>
 
@@ -63,7 +59,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/barkhavarshney" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:barkhavarshney2304@gmail.com" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
 </p>
 
 ---
