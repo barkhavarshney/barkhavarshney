@@ -15,7 +15,7 @@
 
 ---
 
-<h2 align="center">Project Experience 🚀</h2>
+<h2 align="left">Project Experience 🚀</h2>
 
 ### 🧠 YouTube Data Harvesting and Warehousing
 - **Description:** Developed a Streamlit app for extracting and analyzing YouTube channel data (IDs, videos, statistics).
@@ -58,15 +58,15 @@
 
 ---
 
-<h2 align="center">Connect with Me 🤝</h2>
+<h2 align="left">Connect with Me 🤝</h2>
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/barkhavarshney" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 ---
 
-<h2 align="center">Languages and Tools 🛠️</h2>
+<h2 align="left">Languages and Tools 🛠️</h2>
 
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
