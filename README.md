@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Barkha Varshney</h1>
+<h1 align="center">Hello👋, I'm Barkha Varshney</h1>
 <h3 align="center">A Computerphile 🎮 | Tech Enthusiast 💻</h3>
 
 <p align="center">
