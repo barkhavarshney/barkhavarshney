@@ -37,13 +37,3 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barkhavarshney&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barkhavarshney&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
----
-
-<p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i></p>
